@@ -1,1 +1,2 @@
-# CSE274
+# Summer 2017 - Miami University Oxford, Ohio
+Catalog Description: Abstract data types and their implementation as data structures using object-oriented programming. Use of object-oriented principles in the selection and analysis of various ADT implementations. Sequential and linked storage representations: lists, stacks, queues, and tables. Nonlinear data structures: trees and graphs. Recursion, sorting, searching, and algorithm complexity.
