@@ -1,0 +1,11 @@
+10
+oxford dayton columbus london cincinnati cleveland liverpool dallas houston waco
+oxford dayton
+oxford cincinnati
+cincinnati dayton
+dayton columbus
+columbus cincinnati
+columbus cleveland
+london liverpool
+dallas waco
+dallas houston

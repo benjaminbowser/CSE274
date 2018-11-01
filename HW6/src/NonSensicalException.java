@@ -1,0 +1,1 @@
+// Benjamin Bowser// CSE274 UA@SuppressWarnings("serial")public class NonSensicalException extends RuntimeException {	public NonSensicalException() {		this(null);	} 	public NonSensicalException(String message) {		super(message);	} } 

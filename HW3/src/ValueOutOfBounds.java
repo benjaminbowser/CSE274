@@ -1,0 +1,1 @@
+@SuppressWarnings("serial")public class ValueOutOfBounds extends RuntimeException {	public ValueOutOfBounds() {		this(null);	} // end default constructor	public ValueOutOfBounds(String message) {		super(message);	} // end constructor} // end EmptyQueueException
